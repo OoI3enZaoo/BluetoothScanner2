@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:16:1-61:12
+	package
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:17:5-50
+	android:versionName
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:16:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:30:5-32:35
+	android:required
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:32:9-32
+	android:name
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:31:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:35:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:36:5-79
+	android:name
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:36:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:37:5-81
+	android:name
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:37:22-78
+application
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:39:5-59:19
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Admin\.android\build-cache\b08caf5c668d4b4875eff033cb5f96d1fa886fa5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Admin\.android\build-cache\f6efa67d618ddc2d63511a15cd0683589b8a9bd4\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Admin\.android\build-cache\7e90ba650b892a332dc1883950d627b25772ad86\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Admin\.android\build-cache\fff8280552543c613b77468a3a84c2231a41368e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Admin\.android\build-cache\b9b24306b95dda8f6696b19d19419f9856160c37\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Admin\.android\build-cache\cb70f06217aba314b623848325aad7280dca1d69\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Admin\.android\build-cache\339478debfe3c4b74f10709beee78e3103857c80\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Admin\.android\build-cache\3a3864197862c817c29555eae4d476225ec159fa\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Admin\.android\build-cache\a56993f9dbb4db8337c2b02a951693bb3f2d0e10\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Admin\.android\build-cache\85c62d13345bd9a185a2b9d6f9f8fd735d0bce60\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Admin\.android\build-cache\5904946b3f80d43ad8274d27ba6152cf42739af1\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:41:9-41
+	android:icon
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:40:9-45
+	android:theme
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:42:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:43:9-51:20
+	android:label
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:44:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:49:27-74
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:54:9-56:38
+	android:enabled
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:56:13-35
+	android:name
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:55:13-47
+activity#com.example.android.bluetoothlegatt.MainActivity
+ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:58:9-59
+	android:name
+		ADDED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:58:19-47
+uses-sdk
+INJECTED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Admin\.android\build-cache\b08caf5c668d4b4875eff033cb5f96d1fa886fa5\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Admin\.android\build-cache\f6efa67d618ddc2d63511a15cd0683589b8a9bd4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Admin\.android\build-cache\7e90ba650b892a332dc1883950d627b25772ad86\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Admin\.android\build-cache\fff8280552543c613b77468a3a84c2231a41368e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Admin\.android\build-cache\b9b24306b95dda8f6696b19d19419f9856160c37\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Admin\.android\build-cache\cb70f06217aba314b623848325aad7280dca1d69\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Admin\.android\build-cache\339478debfe3c4b74f10709beee78e3103857c80\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Admin\.android\build-cache\3a3864197862c817c29555eae4d476225ec159fa\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Admin\.android\build-cache\a56993f9dbb4db8337c2b02a951693bb3f2d0e10\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Admin\.android\build-cache\85c62d13345bd9a185a2b9d6f9f8fd735d0bce60\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Admin\.android\build-cache\5904946b3f80d43ad8274d27ba6152cf42739af1\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.1] C:\Users\Admin\.android\build-cache\b08caf5c668d4b4875eff033cb5f96d1fa886fa5\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml

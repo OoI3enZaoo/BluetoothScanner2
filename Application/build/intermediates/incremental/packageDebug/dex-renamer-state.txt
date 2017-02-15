@@ -1,0 +1,7 @@
+#Wed Feb 15 19:09:10 ICT 2017
+base.0=C\:\\Users\\Admin\\Downloads\\bluttoth\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f3ab74e74f1e710d804f54407badfb79cd42541e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Admin\\Downloads\\bluttoth\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fb2e496826dc000a272139088e668471f3f45254\\classes.dex
+base.1=C\:\\Users\\Admin\\Downloads\\bluttoth\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fb2e496826dc000a272139088e668471f3f45254
+file.0=C\:\\Users\\Admin\\Downloads\\bluttoth\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f3ab74e74f1e710d804f54407badfb79cd42541e\\classes.dex

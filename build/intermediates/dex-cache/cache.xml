@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="634402ee0566668bf69a5f1bdbb5b365f18c661e">
+        <dex dex="C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fb2e496826dc000a272139088e668471f3f45254\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fadb286755322aaaf03484e62370b1a2c5e1a75">
+        <dex dex="C:\Users\Admin\Downloads\bluttoth\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f3ab74e74f1e710d804f54407badfb79cd42541e\classes.dex" />
+    </item>
+
+</items>
